@@ -13,7 +13,7 @@ namespace Code_First.Models
         [Key]
         public int Id { get; set; }
         public string? Gradename { get; set; }
-        
+        // comment
 
 
        
